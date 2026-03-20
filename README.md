@@ -1,2 +1,3 @@
-# pro-content-cms-swal
-Automated issue comment bot repository
+# Pro Content Cms Swal
+
+Automated issue comment bot repository.
